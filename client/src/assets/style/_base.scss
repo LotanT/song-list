@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+body {
+    margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+input,
+textarea {
+    width: 200px;
+    outline: none;
+}
+
+input,
+select {
+    padding: 5px;
+    padding-left: none;
+    
+}
+
+body a,
+.router-link {
+    color: white;
+    text-decoration: none;
+    &:hover{
+        color:#014e4e;
+    }
+}
+
+header {
+    padding: 5px;
+}

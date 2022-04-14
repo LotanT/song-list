@@ -1,0 +1,316 @@
+2.4.2022, 10:22:55 - INFO - connect to Mongo
+2.4.2022, 11:39:01 - INFO - connect to Mongo
+2.4.2022, 11:39:04 - ERROR - cannot find songs | {}
+2.4.2022, 11:39:04 - ERROR - Failed to get songs | {}
+2.4.2022, 12:08:07 - INFO - connect to Mongo
+2.4.2022, 12:08:07 - ERROR - cannot find songs | {}
+2.4.2022, 12:08:07 - ERROR - Failed to get songs | {}
+2.4.2022, 12:21:23 - INFO - connect to Mongo
+2.4.2022, 12:21:23 - ERROR - cannot find songs | {}
+2.4.2022, 12:21:23 - ERROR - Failed to get songs | {}
+2.4.2022, 12:22:12 - INFO - connect to Mongo
+2.4.2022, 12:22:12 - ERROR - Failed to get songs | {}
+2.4.2022, 12:23:43 - INFO - connect to Mongo
+2.4.2022, 12:23:43 - ERROR - Failed to get songs | {}
+2.4.2022, 12:24:43 - INFO - connect to Mongo
+2.4.2022, 12:24:43 - ERROR - cannot find songs | {}
+2.4.2022, 12:24:43 - ERROR - Failed to get songs | {}
+2.4.2022, 12:25:36 - ERROR - cannot find songs | {}
+2.4.2022, 12:25:36 - ERROR - Failed to get songs | {}
+2.4.2022, 12:25:45 - INFO - connect to Mongo
+2.4.2022, 12:25:45 - ERROR - cannot find songs | {}
+2.4.2022, 12:25:45 - ERROR - Failed to get songs | {}
+2.4.2022, 14:10:49 - INFO - connect to Mongo
+2.4.2022, 14:10:49 - ERROR - cannot insert song | {}
+2.4.2022, 14:10:49 - ERROR - Failed to add song | {}
+2.4.2022, 14:11:44 - INFO - connect to Mongo
+2.4.2022, 14:11:44 - ERROR - cannot insert song | {}
+2.4.2022, 14:11:44 - ERROR - Failed to add song | {}
+2.4.2022, 14:11:56 - ERROR - cannot insert song | {}
+2.4.2022, 14:11:56 - ERROR - Failed to add song | {}
+2.4.2022, 14:12:05 - INFO - connect to Mongo
+2.4.2022, 14:12:05 - ERROR - cannot insert song | {}
+2.4.2022, 14:12:05 - ERROR - Failed to add song | {}
+2.4.2022, 14:12:44 - INFO - connect to Mongo
+2.4.2022, 14:12:44 - ERROR - cannot insert song | {}
+2.4.2022, 14:12:44 - ERROR - Failed to add song | {}
+2.4.2022, 14:13:36 - INFO - connect to Mongo
+2.4.2022, 14:13:36 - ERROR - cannot insert song | {}
+2.4.2022, 14:13:36 - ERROR - Failed to add song | {}
+2.4.2022, 14:14:13 - ERROR - cannot insert song | {}
+2.4.2022, 14:14:13 - ERROR - Failed to add song | {}
+2.4.2022, 14:19:11 - INFO - connect to Mongo
+2.4.2022, 14:19:11 - ERROR - cannot insert song | {}
+2.4.2022, 14:19:11 - ERROR - Failed to add song | {}
+2.4.2022, 14:21:32 - INFO - connect to Mongo
+2.4.2022, 14:21:44 - ERROR - cannot find songs | {}
+2.4.2022, 14:21:44 - ERROR - Failed to get songs | {}
+2.4.2022, 14:24:47 - INFO - connect to Mongo
+2.4.2022, 14:25:58 - ERROR - cannot find songs | {}
+2.4.2022, 14:25:58 - ERROR - Failed to get songs | {}
+2.4.2022, 14:28:08 - ERROR - cannot find songs | {}
+2.4.2022, 14:28:08 - ERROR - Failed to get songs | {}
+2.4.2022, 14:29:10 - INFO - connect to Mongo
+2.4.2022, 14:29:10 - ERROR - cannot find songs | {}
+2.4.2022, 14:29:10 - ERROR - Failed to get songs | {}
+2.4.2022, 14:30:23 - INFO - connect to Mongo
+4.4.2022, 10:36:51 - ERROR - Failed to signup TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+4.4.2022, 10:37:40 - ERROR - Failed to signup TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+4.4.2022, 10:38:01 - ERROR - Failed to signup TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+4.4.2022, 10:51:36 - ERROR - Failed to signup TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+4.4.2022, 10:52:47 - ERROR - Failed to signup TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+4.4.2022, 10:54:10 - ERROR - Failed to signup TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+4.4.2022, 10:54:14 - ERROR - Failed to signup TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+4.4.2022, 10:56:19 - ERROR - Failed to signup TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+4.4.2022, 11:02:47 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+4.4.2022, 11:02:47 - ERROR - Failed to signup fullname, username and password are required!
+4.4.2022, 11:08:50 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+4.4.2022, 11:08:50 - ERROR - Failed to signup fullname, username and password are required!
+4.4.2022, 11:09:01 - DEBUG - auth.service - signup with username: undefined, email: lotan@gmail.com
+4.4.2022, 11:09:01 - ERROR - Failed to signup email, username and password are required!
+4.4.2022, 11:10:58 - DEBUG - auth.service - signup with username: lotan, email: lotan@gamil.com
+4.4.2022, 11:10:58 - ERROR - Failed to signup ReferenceError: userService is not defined
+4.4.2022, 11:14:15 - DEBUG - auth.service - signup with username: lotan, email: lotan@gamil.com
+4.4.2022, 11:14:15 - INFO - connect to Mongo
+4.4.2022, 11:14:16 - DEBUG - auth.route - new account created: {"username":"lotan","password":"$2b$10$iA8c6.FRiNS9x2V0162HQ.os4w1mw09564N4OxKldyspUiLC5BPuG","email":"lotan@gamil.com","_id":"624aa8d8ba527a837fe80724"}
+4.4.2022, 11:14:16 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 11:18:19 - DEBUG - auth.service - signup with username: lotan, email: lotan@gamil.com
+4.4.2022, 11:18:19 - INFO - connect to Mongo
+4.4.2022, 11:18:19 - ERROR - Failed to signup Username already taken
+4.4.2022, 11:18:33 - DEBUG - auth.service - signup with username: lotant, email: lotan@gamil.com
+4.4.2022, 11:18:33 - ERROR - Failed to signup TypeError: Cannot read properties of undefined (reading 'toString')
+4.4.2022, 11:18:46 - DEBUG - auth.service - signup with username: lotan, email: lotan@gamil.com
+4.4.2022, 11:18:46 - ERROR - Failed to signup Username already taken
+4.4.2022, 11:18:59 - DEBUG - auth.service - signup with username: lotant, email: lotan@gamil.com
+4.4.2022, 11:18:59 - ERROR - Failed to signup Username already taken
+4.4.2022, 11:19:19 - DEBUG - auth.service - signup with username: lotantt, email: lotan@gamil.com
+4.4.2022, 11:19:19 - ERROR - Failed to signup TypeError: Cannot read properties of undefined (reading 'toString')
+4.4.2022, 11:19:38 - DEBUG - auth.service - signup with username: lotantt, email: lotan@gamil.com
+4.4.2022, 11:19:38 - INFO - connect to Mongo
+4.4.2022, 11:19:38 - ERROR - Failed to signup Username already taken
+4.4.2022, 11:19:59 - DEBUG - auth.service - signup with username: lotanttt, email: lotan@gamil.com
+4.4.2022, 11:19:59 - DEBUG - auth.route - new account created: undefined
+4.4.2022, 11:19:59 - DEBUG - auth.service - login with username: lotanttt
+4.4.2022, 11:22:33 - DEBUG - auth.service - signup with username: lotan, email: lotan@gamil.com
+4.4.2022, 11:22:33 - INFO - connect to Mongo
+4.4.2022, 11:22:33 - DEBUG - auth.route - new account created: undefined
+4.4.2022, 11:22:33 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 11:22:58 - DEBUG - auth.service - login with username: undefined
+4.4.2022, 11:22:58 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 11:25:26 - DEBUG - auth.service - login with username: undefined
+4.4.2022, 11:25:26 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 11:35:16 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 11:35:19 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 11:36:21 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 11:36:22 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 12:45:29 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 12:45:29 - INFO - connect to Mongo
+4.4.2022, 12:59:02 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 12:59:08 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 13:10:44 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 13:12:31 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 13:16:11 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 13:50:55 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 13:51:03 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 16:21:29 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 16:21:38 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 17:10:42 - DEBUG - auth.service - login with username: undefined
+4.4.2022, 17:10:43 - INFO - connect to Mongo
+4.4.2022, 17:10:43 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 17:10:55 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 17:11:01 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 17:11:13 - DEBUG - auth.service - login with username: undefined
+4.4.2022, 17:11:13 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 17:12:10 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 17:12:17 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 17:12:30 - DEBUG - auth.service - login with username: undefined
+4.4.2022, 17:12:30 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 17:28:26 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 17:28:27 - INFO - connect to Mongo
+4.4.2022, 17:30:34 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 17:37:43 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 17:49:33 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 17:49:33 - INFO - connect to Mongo
+4.4.2022, 17:55:36 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 17:55:36 - INFO - connect to Mongo
+4.4.2022, 17:56:53 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 17:56:53 - INFO - connect to Mongo
+4.4.2022, 18:07:56 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 18:08:14 - DEBUG - auth.service - login with username: lotant
+4.4.2022, 18:08:15 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 18:10:21 - DEBUG - auth.service - login with username: lotant
+4.4.2022, 18:10:21 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 18:12:43 - DEBUG - auth.service - login with username: sadf
+4.4.2022, 18:12:43 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 18:13:30 - DEBUG - auth.service - login with username: asdf
+4.4.2022, 18:13:30 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 18:17:01 - DEBUG - auth.service - login with username: asdf
+4.4.2022, 18:17:01 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 18:17:18 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 18:19:05 - DEBUG - auth.service - login with username: asdf
+4.4.2022, 18:19:05 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 18:19:10 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 18:19:55 - DEBUG - auth.service - login with username: asdf
+4.4.2022, 18:19:55 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 18:19:59 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 18:21:45 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 18:23:04 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 18:23:51 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 18:24:14 - DEBUG - auth.service - signup with username: lotant, email: lotan@gamil.com
+4.4.2022, 18:24:14 - DEBUG - auth.route - new account created: undefined
+4.4.2022, 18:24:14 - DEBUG - auth.service - login with username: lotant
+4.4.2022, 18:24:14 - ERROR - Failed to signup Invalid username or password
+4.4.2022, 18:24:33 - DEBUG - auth.service - signup with username: lotant, email: lotan@gamil.com
+4.4.2022, 18:24:33 - ERROR - Failed to signup Username already taken
+4.4.2022, 18:24:36 - DEBUG - auth.service - signup with username: lotantt, email: lotan@gamil.com
+4.4.2022, 18:24:36 - DEBUG - auth.route - new account created: undefined
+4.4.2022, 18:24:36 - DEBUG - auth.service - login with username: lotantt
+4.4.2022, 18:39:55 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 18:40:22 - DEBUG - auth.service - signup with username: ijji, email: jiji@gamil.com
+4.4.2022, 18:40:22 - DEBUG - auth.route - new account created: undefined
+4.4.2022, 18:40:22 - DEBUG - auth.service - login with username: ijji
+4.4.2022, 18:57:43 - DEBUG - auth.service - login with username: asdf
+4.4.2022, 18:57:43 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 18:59:48 - DEBUG - auth.service - login with username: asdf
+4.4.2022, 18:59:48 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 19:00:10 - DEBUG - auth.service - login with username: asdf
+4.4.2022, 19:00:10 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 19:05:22 - DEBUG - auth.service - login with username: asdf
+4.4.2022, 19:05:22 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 19:08:46 - DEBUG - auth.service - login with username: asdf
+4.4.2022, 19:08:46 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 19:09:24 - DEBUG - auth.service - login with username: sdf
+4.4.2022, 19:09:24 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 19:09:28 - DEBUG - auth.service - login with username: sdf
+4.4.2022, 19:09:28 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 19:09:51 - DEBUG - auth.service - login with username: sadf
+4.4.2022, 19:09:51 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 19:10:12 - DEBUG - auth.service - signup with username: lotan, email: asdf@gamil.com
+4.4.2022, 19:10:12 - ERROR - Failed to signup Username already taken
+4.4.2022, 19:10:26 - DEBUG - auth.service - signup with username: lotan, email: asdf@gamil.com
+4.4.2022, 19:10:26 - ERROR - Failed to signup Username already taken
+4.4.2022, 19:10:31 - DEBUG - auth.service - signup with username: lotanlo, email: asdf@gamil.com
+4.4.2022, 19:10:31 - DEBUG - auth.route - new account created: undefined
+4.4.2022, 19:10:31 - DEBUG - auth.service - login with username: lotanlo
+4.4.2022, 20:40:39 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 20:40:39 - INFO - connect to Mongo
+4.4.2022, 20:40:54 - DEBUG - auth.service - login with username: huxh
+4.4.2022, 20:40:54 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 20:41:03 - DEBUG - auth.service - login with username: huxh
+4.4.2022, 20:41:03 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 20:41:26 - DEBUG - auth.service - login with username: huxh
+4.4.2022, 20:41:26 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 20:41:36 - DEBUG - auth.service - login with username: huxh
+4.4.2022, 20:41:36 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 20:41:52 - DEBUG - auth.service - login with username: huxh
+4.4.2022, 20:41:52 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 20:43:33 - DEBUG - auth.service - login with username: huxh
+4.4.2022, 20:43:33 - INFO - connect to Mongo
+4.4.2022, 20:43:33 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 20:43:59 - DEBUG - auth.service - login with username: huxh
+4.4.2022, 20:43:59 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 20:44:09 - DEBUG - auth.service - signup with username: huxh, email: huxh@huxh.com
+4.4.2022, 20:44:09 - DEBUG - auth.route - new account created: undefined
+4.4.2022, 20:44:09 - DEBUG - auth.service - login with username: huxh
+4.4.2022, 20:44:44 - DEBUG - auth.service - login with username: huxh
+4.4.2022, 21:16:00 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 21:16:01 - INFO - connect to Mongo
+4.4.2022, 21:16:02 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 21:16:02 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 21:16:02 - ERROR - Failed to Login Invalid username or password
+4.4.2022, 21:16:35 - DEBUG - auth.service - signup with username: lotan, email: lotan@gil.com
+4.4.2022, 21:16:35 - DEBUG - auth.route - new account created: undefined
+4.4.2022, 21:16:35 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 21:16:35 - ERROR - Failed to signup Invalid username or password
+4.4.2022, 21:17:11 - DEBUG - auth.service - signup with username: lotan, email: lotan@gil.com
+4.4.2022, 21:17:12 - ERROR - Failed to signup Username already taken
+4.4.2022, 21:18:06 - DEBUG - auth.service - signup with username: lotanl, email: lotan@gil.com
+4.4.2022, 21:18:06 - DEBUG - auth.route - new account created: undefined
+4.4.2022, 21:18:06 - DEBUG - auth.service - login with username: lotanl
+4.4.2022, 21:21:46 - DEBUG - auth.service - login with username: lotan
+4.4.2022, 21:22:12 - DEBUG - auth.service - login with username: lotanl
+7.4.2022, 12:35:05 - DEBUG - auth.service - login with username: lotan
+7.4.2022, 12:35:06 - DEBUG - auth.service - login with username: lotan
+7.4.2022, 12:35:07 - INFO - connect to Mongo
+7.4.2022, 12:35:07 - INFO - connect to Mongo
+7.4.2022, 12:41:16 - DEBUG - auth.service - signup with username: nhv, email: nhv@nhv.com
+7.4.2022, 12:41:16 - DEBUG - auth.route - new account created: undefined
+7.4.2022, 12:41:16 - DEBUG - auth.service - login with username: nhv
+10.4.2022, 15:24:39 - DEBUG - auth.service - login with username: lotan
+10.4.2022, 15:24:41 - INFO - connect to Mongo
+10.4.2022, 15:28:54 - DEBUG - auth.service - login with username: lotan
+10.4.2022, 15:28:55 - INFO - connect to Mongo
+11.4.2022, 10:18:19 - DEBUG - auth.service - login with username: lotan
+11.4.2022, 10:18:22 - ERROR - Cannot Connect to DB | {"ok":0,"code":18,"codeName":"AuthenticationFailed"}
+11.4.2022, 10:18:22 - ERROR - Failed to get Mongo collection | {"ok":0,"code":18,"codeName":"AuthenticationFailed"}
+11.4.2022, 10:18:22 - ERROR - while finding user lotan | {"ok":0,"code":18,"codeName":"AuthenticationFailed"}
+11.4.2022, 10:18:22 - ERROR - Failed to Login MongoServerError: Authentication failed.
+11.4.2022, 10:18:30 - DEBUG - auth.service - signup with username: lotan, email: asdf@asf.com
+11.4.2022, 10:18:30 - ERROR - Cannot Connect to DB | {"ok":0,"code":18,"codeName":"AuthenticationFailed"}
+11.4.2022, 10:18:30 - ERROR - Failed to get Mongo collection | {"ok":0,"code":18,"codeName":"AuthenticationFailed"}
+11.4.2022, 10:18:30 - ERROR - while finding user lotan | {"ok":0,"code":18,"codeName":"AuthenticationFailed"}
+11.4.2022, 10:18:30 - ERROR - Failed to signup MongoServerError: Authentication failed.
+11.4.2022, 10:26:08 - DEBUG - auth.service - signup with username: lotan, email: asdf@asdf.com
+11.4.2022, 10:26:08 - ERROR - Cannot Connect to DB | {}
+11.4.2022, 10:26:08 - ERROR - Failed to get Mongo collection | {}
+11.4.2022, 10:26:08 - ERROR - while finding user lotan | {}
+11.4.2022, 10:26:08 - ERROR - Failed to signup MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+11.4.2022, 10:29:52 - DEBUG - auth.service - signup with username: lotan, email: asdf@asdf.com
+11.4.2022, 10:29:52 - ERROR - Cannot Connect to DB | {"ok":0,"code":18,"codeName":"AuthenticationFailed"}
+11.4.2022, 10:29:52 - ERROR - Failed to get Mongo collection | {"ok":0,"code":18,"codeName":"AuthenticationFailed"}
+11.4.2022, 10:29:52 - ERROR - while finding user lotan | {"ok":0,"code":18,"codeName":"AuthenticationFailed"}
+11.4.2022, 10:29:52 - ERROR - Failed to signup MongoServerError: Authentication failed.
+11.4.2022, 10:35:40 - DEBUG - auth.service - signup with username: lotan, email: asdf@asdf.com
+11.4.2022, 10:35:40 - ERROR - Cannot Connect to DB | {"ok":0,"code":18,"codeName":"AuthenticationFailed"}
+11.4.2022, 10:35:40 - ERROR - Failed to get Mongo collection | {"ok":0,"code":18,"codeName":"AuthenticationFailed"}
+11.4.2022, 10:35:40 - ERROR - while finding user lotan | {"ok":0,"code":18,"codeName":"AuthenticationFailed"}
+11.4.2022, 10:35:40 - ERROR - Failed to signup MongoServerError: Authentication failed.
+11.4.2022, 10:51:06 - DEBUG - auth.service - signup with username: lotan, email: asdf@asdf.com
+11.4.2022, 10:51:07 - INFO - connect to Mongo
+11.4.2022, 10:51:07 - DEBUG - auth.route - new account created: undefined
+11.4.2022, 10:51:07 - DEBUG - auth.service - login with username: lotan
+11.4.2022, 10:51:07 - ERROR - Failed to signup Invalid username or password
+11.4.2022, 10:52:00 - DEBUG - auth.service - signup with username: lotan, email: asdf@adg.com
+11.4.2022, 10:52:00 - ERROR - Failed to signup Username already taken
+11.4.2022, 10:53:51 - DEBUG - auth.service - signup with username: lotan, email: sdf@asdf.com
+11.4.2022, 10:53:51 - INFO - connect to Mongo
+11.4.2022, 10:53:51 - ERROR - Failed to signup Username already taken
+11.4.2022, 10:54:03 - DEBUG - auth.service - signup with username: lotanlotan, email: sdf@asdf.com
+11.4.2022, 10:54:03 - DEBUG - auth.route - new account created: undefined
+11.4.2022, 10:54:03 - DEBUG - auth.service - login with username: lotanlotan
+11.4.2022, 10:58:53 - DEBUG - auth.service - signup with username: lotan, email: sadf@sadf.com
+11.4.2022, 10:58:54 - ERROR - Cannot Connect to DB | {"ok":0,"code":18,"codeName":"AuthenticationFailed"}
+11.4.2022, 10:58:54 - ERROR - Failed to get Mongo collection | {"ok":0,"code":18,"codeName":"AuthenticationFailed"}
+11.4.2022, 10:58:54 - ERROR - while finding user lotan | {"ok":0,"code":18,"codeName":"AuthenticationFailed"}
+11.4.2022, 10:58:54 - ERROR - Failed to signup MongoServerError: Authentication failed.
+11.4.2022, 11:08:16 - DEBUG - auth.service - signup with username: lotan, email: sadf@sadf.com
+11.4.2022, 11:08:16 - ERROR - Cannot Connect to DB | {"ok":0,"code":18,"codeName":"AuthenticationFailed"}
+11.4.2022, 11:08:16 - ERROR - Failed to get Mongo collection | {"ok":0,"code":18,"codeName":"AuthenticationFailed"}
+11.4.2022, 11:08:16 - ERROR - while finding user lotan | {"ok":0,"code":18,"codeName":"AuthenticationFailed"}
+11.4.2022, 11:08:16 - ERROR - Failed to signup MongoServerError: Authentication failed.
+11.4.2022, 11:08:36 - DEBUG - auth.service - signup with username: lotan, email: sadf@sadf.com
+11.4.2022, 11:09:06 - ERROR - Cannot Connect to DB | {"reason":{"type":"Unknown","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15}}
+11.4.2022, 11:09:06 - ERROR - Failed to get Mongo collection | {"reason":{"type":"Unknown","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15}}
+11.4.2022, 11:09:06 - ERROR - while finding user lotan | {"reason":{"type":"Unknown","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15}}
+11.4.2022, 11:09:06 - ERROR - Failed to signup MongoServerSelectionError: connection <monitor> to 127.0.0.1:27020 closed
+11.4.2022, 11:28:26 - DEBUG - auth.service - signup with username: lotan, email: sadf@sadf.com
+11.4.2022, 11:28:56 - ERROR - Cannot Connect to DB | {"reason":{"type":"Unknown","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15}}
+11.4.2022, 11:28:56 - ERROR - Failed to get Mongo collection | {"reason":{"type":"Unknown","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15}}
+11.4.2022, 11:28:56 - ERROR - while finding user lotan | {"reason":{"type":"Unknown","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15}}
+11.4.2022, 11:28:56 - ERROR - Failed to signup MongoServerSelectionError: connection <monitor> to 127.0.0.1:27020 closed
+12.4.2022, 13:04:29 - DEBUG - auth.service - login with username: lotan
+12.4.2022, 13:04:32 - INFO - connect to Mongo
+12.4.2022, 13:04:32 - ERROR - Failed to Login Invalid username or password
+12.4.2022, 13:04:45 - DEBUG - auth.service - login with username: lotan
+12.4.2022, 13:04:45 - ERROR - Failed to Login Invalid username or password
+12.4.2022, 13:05:02 - DEBUG - auth.service - login with username: lotan
+12.4.2022, 13:05:02 - ERROR - Failed to Login Invalid username or password
+12.4.2022, 13:05:13 - DEBUG - auth.service - signup with username: lotan, email: sadf@gmail.com
+12.4.2022, 13:05:13 - DEBUG - auth.route - new account created: undefined
+12.4.2022, 13:05:13 - DEBUG - auth.service - login with username: lotan
+12.4.2022, 19:21:13 - DEBUG - auth.service - login with username: lotan
+12.4.2022, 19:21:22 - DEBUG - auth.service - login with username: lotan
+12.4.2022, 19:21:23 - DEBUG - auth.service - login with username: lotan
+12.4.2022, 19:21:24 - INFO - connect to Mongo
+12.4.2022, 19:21:24 - INFO - connect to Mongo
+12.4.2022, 19:21:24 - INFO - connect to Mongo
